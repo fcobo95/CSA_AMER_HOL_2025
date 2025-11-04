@@ -1,0 +1,28 @@
+{
+   "type" : "record",
+   "namespace" : "telco",
+   "name" : "telco_data_{CSA_ALIAS}",
+   "fields" : [
+      { "name" : "multiplelines" , "type" : "string" },
+      { "name" : "paperlessbilling" , "type" : "string" },
+      { "name" : "gender" , "type" : "string" },
+      { "name" : "onlinesecurity" , "type" : "string" },
+      { "name" : "internetservice" , "type" : "string" },
+      { "name" : "techsupport" , "type" : "string" },
+      { "name" : "contract" , "type" : "string" },
+      { "name" : "churn" , "type" : "string" },
+      { "name" : "seniorcitizen" , "type" : "string" },
+      { "name" : "deviceprotection" , "type" : "string" },
+      { "name" : "streamingtv" , "type" : "string" },
+      { "name" : "streamingmovies" , "type" : "string" },
+      { "name" : "totalcharges" , "type" : "string" },
+      { "name" : "partner" , "type" : "string" },
+      { "name" : "monthlycharges" , "type" : "string" },
+      { "name" : "customerid" , "type" : "string" },
+      { "name" : "dependents" , "type" : "string" },
+      { "name" : "onlinebackup" , "type" : "string" },
+      { "name" : "phoneservice" , "type" : "string" },
+      { "name" : "tenure" , "type" : "string" },
+      { "name" : "paymentmethod" , "type" : "string" }
+   ]
+}
